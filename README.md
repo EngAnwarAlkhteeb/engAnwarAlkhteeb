@@ -8,7 +8,10 @@ I'm Anwar Muneer Abdo Othman, an Informatics Engineering student with a passion 
 
 ### How to reach me:
 
-- 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/anwar-muneer-abdo-othman-068586251/) or [Instagram](https://instagram.com/amao.99?igshid=OGQ5ZDc2ODk2ZA==).
+- 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/anwar-muneer-abdo-othman-068586251/) or [Instagram](https://instagram.com/amao.99?igshid=OGQ5ZDc2ODk2ZA==) or [WhatsApp](https://wa.me/qr/J73JXG65YBC4E1)
 - 💬 You can also drop me an email at ak2211.g@gmail.com.
+- Replit Profile
+
+    [![Replit](https://img.shields.io/badge/Replit-ak2211g-blue?style=for-the-badge&logo=replit)](https://replit.com/@ak2211g)
 
 Let's connect and collaborate on exciting AI projects together! 🤝
