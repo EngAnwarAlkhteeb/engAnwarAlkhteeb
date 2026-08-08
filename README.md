@@ -1,17 +1,22 @@
-### Hi there! 👋
+# Anwar Al-khteeb
+> Frontend Developer | React.js, JavaScript, HTML5, CSS3[cite: 1]
 
-I'm Anwar Muneer Abdo Othman, an Informatics Engineering student with a passion for Artificial Intelligence (AI) and its potential to shape the future. 
+---
 
-- 🎓 I'm currently pursuing my bachelor's degree at Hasanuddin University.
-- 💡 I'm enthusiastic about AI, Machine Learning, and Data Science.
-- 🚀 I'm always eager to learn and explore new technologies and ideas.
+### Professional Summary
+Frontend Developer specializing in building fast, responsive, and accessible web interfaces[cite: 1]. I currently develop and maintain live application features at Direct Reach Business Solutions Platforms Co Ltd[cite: 1]. My focus is on writing clean, maintainable code and bridging the gap between design and working software[cite: 1].
 
-### How to reach me:
+### Experience and Education
+* **Direct Reach Business Solutions Platforms Co Ltd**: Frontend Developer[cite: 1].
+* **Cochin University of Science and Technology (CUSAT)**: Master of Computer Applications (MCA) Candidate[cite: 1].
+* **Universitas Hasanuddin**: Bachelor of Informatics[cite: 1] (General Informatics track).
+* **Media Go**: Former Frontend Intern[cite: 1] (Two months offline, four months remote).
 
-- 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/anwar-muneer-abdo-othman-068586251/) or [Instagram](https://instagram.com/amao.99?igshid=OGQ5ZDc2ODk2ZA==) or [WhatsApp](https://wa.me/qr/J73JXG65YBC4E1)
-- 💬 You can also drop me an email at ak2211.g@gmail.com.
-- Replit Profile
+### Connect and Collaborate
+* **Portfolio**: [anwaralkhteeb.dev](https://anwaralkhteeb.dev/)[cite: 1]
+* **LinkedIn**: [Anwar Al-khteeb](https://www.linkedin.com/in/anwar-al-khteeb-068586251)[cite: 1]
+* **Email**: ak2211.g@gmail.com[cite: 1]
+* **Replit**: [![Replit](https://img.shields.io/badge/Replit-ak2211g-blue?style=for-the-badge&logo=replit)](https://replit.com/@ak2211g)
 
-    [![Replit](https://img.shields.io/badge/Replit-ak2211g-blue?style=for-the-badge&logo=replit)](https://replit.com/@ak2211g)
-
-Let's connect and collaborate on exciting AI projects together! 🤝
+---
+> *Open to frontend developer roles and projects where React.js expertise and UI craftsmanship make a measurable difference[cite: 1].*
